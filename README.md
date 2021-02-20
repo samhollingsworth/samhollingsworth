@@ -1,7 +1,7 @@
 ## About Me
 
 - 📱 I’m currently working at [Wayfair](https://www.wayfair.com) on their iOS app
-- 💵 In my free time I'm working on a personal finance app [CashFlow](https://github.com/samhollingsworth/CashFlow)
+- 💵 In my free time I'm working on a personal finance app [Weighted Returns](https://github.com/samhollingsworth/weighted-returns)
 - 🔒 I’m currently learning about mobile app security by reading and working through the [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
 - 📄 Check out my [website](https://samhollingsworth.github.io) to learn more about me
 - 📫 Reach me at `samhollingsworth@fastmail.com`
