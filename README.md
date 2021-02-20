@@ -8,13 +8,13 @@
 
 ## Table of Contents
 * iOS Projects:
+  + [Weighted Returns](https://github.com/samhollingsworth/weighted-returns#readme)
   + [Cash Flow](https://github.com/samhollingsworth/CashFlow#readme)
   + [Walk Medford](https://github.com/walkMedfordiOS/iOSapp#readme)
   + [Breedfinder](https://github.com/samhollingsworth/BreedFinder#readme)
   
 * About Me:
   + [Personal Website](https://github.com/samhollingsworth/samhollingsworth.github.io)
-  + [This README](https://github.com/samhollingsworth/samhollingsworth)
 
 * College Courses:
   + [Computer Systems Security](https://github.com/samhollingsworth/Computer-Systems-Security)
