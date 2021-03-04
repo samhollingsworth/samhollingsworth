@@ -1,7 +1,6 @@
 ## Table of Contents
 * iOS Projects:
   + [Weighted Returns](https://github.com/samhollingsworth/weighted-returns#readme)
-  + [Cash Flow](https://github.com/samhollingsworth/CashFlow#readme)
   + [Walk Medford](https://github.com/walkMedfordiOS/iOSapp#readme)
   + [Breedfinder](https://github.com/samhollingsworth/BreedFinder#readme)
 
