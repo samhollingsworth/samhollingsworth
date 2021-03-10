@@ -10,7 +10,7 @@ Check out my [personal website](https://samhollingsworth.github.io) to learn mor
   + [Breedfinder](https://github.com/samhollingsworth/BreedFinder#readme): My first app! It's what got me hooked on iOS, still use it from time to time to help identify the breed of a dog.
 
 * **Security Research Tools**:
-  + [retrieve](https://github.com/samhollingsworth/retrieve#readme): Created a shell script to extract the IPA of a specified app from a connected Apple device in order to analyze the files for security vulnerabilities. 
+  + [retrieve](https://github.com/samhollingsworth/scripts#readme): Created a shell script to extract the IPA of a specified app from a connected Apple device in order to analyze the files for security vulnerabilities. 
 
 * **College Courses**:
   + [Computer Systems Security](https://github.com/samhollingsworth/Computer-Systems-Security)
