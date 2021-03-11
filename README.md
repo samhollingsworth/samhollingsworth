@@ -9,8 +9,11 @@ Check out my [personal website](https://samhollingsworth.github.io) to learn mor
   + [Walk Medford](https://github.com/walkMedfordiOS/iOSapp#readme): An app I developed senior year of college in partnership with a local government organization to show residents the various walking paths around the city and the landmarks they'll encounter along the way.
   + [Breedfinder](https://github.com/samhollingsworth/BreedFinder#readme): My first app! It's what got me hooked on iOS, still use it from time to time to help identify the breed of a dog.
 
+* **Swift Playgrounds**
+  + [Rebalance](https://github.com/samhollingsworth/swift-playgrounds/rebalance): Built a Swift Playground to help with rebalancing a financial portfolio. Input the current value of your holdings and the desired allocation and the playground will output the necessary changes for each.
+
 * **Security Research Tools**:
-  + [retrieve](https://github.com/samhollingsworth/scripts#readme): Created a shell script to extract the IPA of a specified app from a connected Apple device in order to analyze the files for security vulnerabilities. 
+  + [Retrieve](https://github.com/samhollingsworth/scripts#readme): Created a shell script to extract the IPA of a specified app from a connected Apple device in order to analyze the files for security vulnerabilities. 
 
 * **College Courses**:
   + [Computer Systems Security](https://github.com/samhollingsworth/Computer-Systems-Security)
