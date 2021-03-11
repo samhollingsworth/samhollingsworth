@@ -10,7 +10,7 @@ Check out my [personal website](https://samhollingsworth.github.io) to learn mor
   + [Breedfinder](https://github.com/samhollingsworth/BreedFinder#readme): My first app! It's what got me hooked on iOS, still use it from time to time to help identify the breed of a dog.
 
 * **Swift Playgrounds**
-  + [Rebalance](https://github.com/samhollingsworth/swift-playgrounds/rebalance): Built a Swift Playground to help with rebalancing a financial portfolio. Input the current value of your holdings and the desired allocation and the playground will output the necessary changes for each.
+  + [Rebalance](https://github.com/samhollingsworth/swift-playgrounds): Built a Swift Playground to help with rebalancing a financial portfolio. Input the current value of your holdings and the desired allocation and the playground will output the necessary changes for each.
 
 * **Security Research Tools**:
   + [Retrieve](https://github.com/samhollingsworth/scripts#readme): Created a shell script to extract the IPA of a specified app from a connected Apple device in order to analyze the files for security vulnerabilities. 
