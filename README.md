@@ -18,6 +18,3 @@ Check out my [personal website](https://samhollingsworth.github.io) to learn mor
 * **College Courses**:
   + [Computer Systems Security](https://github.com/samhollingsworth/Computer-Systems-Security)
   + [Web Progamming](https://github.com/samhollingsworth/Web-Programming)
-
-## GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=samhollingsworth)
