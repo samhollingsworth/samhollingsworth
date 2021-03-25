@@ -5,7 +5,7 @@ Check out my [personal website](https://samhollingsworth.github.io) to learn mor
 ## Table of Contents
 
 * **iOS Projects**:
-  + [Weighted Returns](https://github.com/samhollingsworth/weighted-returns#readme): My current side project, ever since I started learning about Personal Finance I can't get enough. I'm creating this app so I can quickly see how my entire portfolio is doing on my home screen in the form of a widget. The financial institutions I use lack in real-time updates and playing nice with each other.
+  + [Weighted](https://github.com/samhollingsworth/weighted#readme): My current side project, ever since I started learning about Personal Finance I can't get enough. I'm creating this app so I can quickly see how my entire portfolio is doing on my home screen in the form of a widget. The financial institutions I use lack in real-time updates and playing nice with each other.
   + [Walk Medford](https://github.com/walkMedfordiOS/iOSapp#readme): An app I developed senior year of college in partnership with a local government organization to show residents the various walking paths around the city and the landmarks they'll encounter along the way.
   + [Breedfinder](https://github.com/samhollingsworth/BreedFinder#readme): My first app! It's what got me hooked on iOS, still use it from time to time to help identify the breed of a dog.
 
